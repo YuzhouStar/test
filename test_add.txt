@@ -10,6 +10,9 @@ remote to local!
 
 /******Git Learning******/
 
+从远程Github分支克隆到本地
+$git clone https://github.com/YuzhouStar/test.git
+
 从本地Git上传主分支到远程分支
 $git add test_add.txt   #在工作目录，修改文件后，把该文件添加到缓存区
 $git commit -m "add detel doc"   #提交到本地当前分支
